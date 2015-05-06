@@ -148,9 +148,9 @@
  * by sizeof() at compile time.
  */
 
-typedef char
+/*typedef char
   __curl_rule_02__
-    [CurlchkszEQ(curl_off_t, CURL_SIZEOF_CURL_OFF_T)];
+    [CurlchkszEQ(curl_off_t, CURL_SIZEOF_CURL_OFF_T)];*/
 
 /*
  * Verify at compile time that the size of curl_off_t as reported
